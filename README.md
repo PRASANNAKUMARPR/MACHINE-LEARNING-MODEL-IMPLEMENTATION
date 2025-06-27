@@ -111,3 +111,6 @@ Build a foundation for real-world applications like dashboards, monitoring syste
 This Python task bridges two essential aspects of modern programming — data retrieval via APIs and insight generation through visualizations. The skills learned in this project can be directly applied to industry-level applications such as business intelligence tools, weather monitoring apps, real-time stock dashboards, and more. With just a few powerful Python libraries, one can build systems that not only fetch real-world data but also tell compelling visual stories with it.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/bfd5eb51-3ec4-4a07-889d-6ff73d32ec30)
+
+![Image](https://github.com/user-attachments/assets/3afca789-57ae-4f85-9f55-e95c5432a803)
